@@ -1,7 +1,7 @@
 # Adoaler Python SDK
 
-[![PyPI version](https://badge.fury.io/py/adoaler.svg)](https://badge.fury.io/py/adoaler)
-[![Python Support](https://img.shields.io/pypi/pyversions/adoaler.svg)](https://pypi.org/project/adoaler/)
+[![PyPI version](https://badge.fury.io/py/adoaler-sdk.svg)](https://badge.fury.io/py/adoaler-sdk)
+[![Python Support](https://img.shields.io/pypi/pyversions/adoaler-sdk.svg)](https://pypi.org/project/adoaler-sdk/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 SDK oficial Python para integração com o Adoaler Security Platform.
@@ -9,7 +9,7 @@ SDK oficial Python para integração com o Adoaler Security Platform.
 ## Instalação
 
 ```bash
-pip install adoaler
+pip install adoaler-sdk
 ```
 
 ### Requisitos
@@ -216,7 +216,6 @@ def handle_webhook():
 
 - **Docs**: https://docs.adoaler.com/sdk/python
 - **API Reference**: https://docs.adoaler.com/api
-- **Examples**: https://github.com/adoaler/python-sdk/examples
 
 ## Suporte
 
@@ -226,3 +225,4 @@ def handle_webhook():
 ## Licença
 
 MIT License - veja [LICENSE](LICENSE) para detalhes.
+
